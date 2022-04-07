@@ -1,0 +1,2 @@
+# thisisabusufyan-Real-Time-Face-Mask-Detection-using-yolov5-OpenCV-and-Python.-Detect-masks-real-time
+thisisabusufyan/Real-Time-Face-Mask-Detection-using-yolov5-OpenCV-and-Python.-Detect-masks-real-time-video-stream      : You can download directly dataset form the given kaggle link  Dataset : https://www.kaggle.com/deepakat002/face-mask-detection-yolov5                and also from my google drive   https://drive.google.com/drive/folders/1AXQj2rcgKlxvfuYGeY2vHpeKnzc36hM_?usp=sharing
